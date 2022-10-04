@@ -1,4 +1,4 @@
-# Hi everybody😉.md
+# Hi everybody😉
 • [My LinkeDin](https://www.linkedin.com/feed/)
 • My studies at
 
