@@ -1,5 +1,5 @@
 # README.md
-• My LinkeDin
+• [My LinkeDin](https://www.linkedin.com/feed/)
 • My studies at
 
  
