@@ -1,4 +1,5 @@
 # Hi everybody😉
+## I will be glad to new acquaintances and grateful for any useful information and advice.
 - [My LinkeDin](https://www.linkedin.com/feed/)
 - My certificates:
 - [Generation Python a course for beginners:](https://stepik.org/cert/1165429)
