@@ -10,3 +10,5 @@
 - [Programming in Python](https://stepik.org/cert/1566540)
 - 
 ![lambotik GitHub stats](https://github-readme-stats.vercel.app/api?username=lambotik&hide=contribs,prs&show_icons=true&theme=merko)
+-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lambotik&langs_count=8)](https://github.com/lambotik/github-readme-stats)
