@@ -8,3 +8,4 @@
 - [Test Automation with Selenium and Python:](https://stepik.org/cert/1471860)
 - [Software Testing Postman for API Testing:](https://stepik.org/cert/1670603)
 - [Programming in Python](https://stepik.org/cert/1566540)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
