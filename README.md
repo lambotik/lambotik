@@ -2,7 +2,7 @@
 ## I will be glad to new acquaintances and grateful for any useful information and advice.
 - [My CV:](https://drive.google.com/file/d/1_NPOLsBBuq7exzgVyOvIDlNIeFGLucuN/view?usp=sharing) 
 - [My LinkeDin](https://www.linkedin.com/feed/)
-- My certificates:
+## My certificates:
 - [Generation Python a course for beginners:](https://stepik.org/cert/1165429)
 - [Web Development for Beginners HTML and CSS:](https://stepik.org/cert/1436844)
 - [Test Automation with Selenium and Python:](https://stepik.org/cert/1471860)
