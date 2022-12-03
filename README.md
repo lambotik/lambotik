@@ -1,4 +1,4 @@
-# Hi everybody😉
+## Hi everybody😉
 I am most interested in automation in Python and I am
 developing in this direction. Attentive to details, I appreciate
 quality in everything, in everyday life. I am constantly
@@ -7,7 +7,7 @@ organizing and managing a large number of workers (about 100
 subordinates). I have a lot of gaming experience in the past.
 - [<img align='center' alt='CV' width='32' height='32px' src="https://cdn.pixabay.com/photo/2017/03/24/02/25/resume-2169945_1280.png"/>](https://drive.google.com/file/d/1_NPOLsBBuq7exzgVyOvIDlNIeFGLucuN/view?usp=sharing) 
 - [<img align='center' alt='LinkeDin' width='32' height='32px' src="https://lh5.googleusercontent.com/17boAIfIyz12pc7EZqjyP6nGAiZdjmhYbewA46qIPS9vwJ3clgaWtih48vZraTTZQyxWEVo9FMBB0lOrBJiBCDYy5EYJU4A-RjvqIrXab3nxA9_MfIBSiis4nx9van3NAi8vgpyw"/>](https://www.linkedin.com/feed/)
-## My certificates:
+### My certificates:
 - [Generation Python a course for beginners:](https://stepik.org/cert/1165429)
 - [Web Development for Beginners HTML and CSS:](https://stepik.org/cert/1436844)
 - [Test Automation with Selenium and Python:](https://stepik.org/cert/1471860)
@@ -15,7 +15,7 @@ subordinates). I have a lot of gaming experience in the past.
 - [Programming in Python](https://stepik.org/cert/1566540)
 - [Load testing software with Jmeter](https://drive.google.com/file/d/195E_SwXuM6i6fRQuHCrQ4yXhg6li2mBL/view?usp=share_link)
 
-## My Tools:
+### My Tools:
 ![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=plastic&logo=PyCharm&logoColor=47C5FB)
 ![Python](https://img.shields.io/badge/-Python-090909?style=plastic&logo=Python&logoColor=47C5FB)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=plastic&logo=GitHub&logoColor=47C5FB)
