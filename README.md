@@ -6,7 +6,7 @@ developing and striving for new knowledge . I have experience in
 organizing and managing a large number of workers (about 100
 subordinates). I have a lot of gaming experience in the past.
 - [My CV:](https://drive.google.com/file/d/1_NPOLsBBuq7exzgVyOvIDlNIeFGLucuN/view?usp=sharing) 
-- [My LinkeDin](https://www.linkedin.com/feed/)
+- <img align='center' alt='Python' width='72px' height='72px' src="https://lh5.googleusercontent.com/17boAIfIyz12pc7EZqjyP6nGAiZdjmhYbewA46qIPS9vwJ3clgaWtih48vZraTTZQyxWEVo9FMBB0lOrBJiBCDYy5EYJU4A-RjvqIrXab3nxA9_MfIBSiis4nx9van3NAi8vgpyw"/>[My LinkeDin](https://www.linkedin.com/feed/)
 ## My certificates:
 - [Generation Python a course for beginners:](https://stepik.org/cert/1165429)
 - [Web Development for Beginners HTML and CSS:](https://stepik.org/cert/1436844)
