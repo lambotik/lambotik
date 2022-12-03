@@ -1,4 +1,4 @@
-## Hi everybody😉
+## I'm looking for Junior QA/AQA Test Engineer position😉
 I am most interested in automation in Python and I am
 developing in this direction. Attentive to details, I appreciate
 quality in everything, in everyday life. I am constantly
