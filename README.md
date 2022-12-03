@@ -16,7 +16,6 @@ subordinates). I have a lot of gaming experience in the past.
 - [Software Testing Postman for API Testing:](https://stepik.org/cert/1670603)
 - [Programming in Python](https://stepik.org/cert/1566540)
 - [Load testing software with Jmeter](https://drive.google.com/file/d/195E_SwXuM6i6fRQuHCrQ4yXhg6li2mBL/view?usp=share_link)
-[<img align='center' alt='Load testing software with Jmeter' width='32' height='32px' src="https://drive.google.com/drive/folders/1gf8Y_0ppbT6zD3PAEEqofp1ATglh5TON"/>]([https://www.linkedin.com/feed/](https://drive.google.com/drive/folders/1gf8Y_0ppbT6zD3PAEEqofp1ATglh5TON))
 
 ### My Tools:
 ![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=plastic&logo=PyCharm&logoColor=47C5FB)
