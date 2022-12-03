@@ -16,7 +16,6 @@ subordinates). I have a lot of gaming experience in the past.
 - [Software Testing Postman for API Testing:](https://stepik.org/cert/1670603)
 - [Programming in Python](https://stepik.org/cert/1566540)
 - [Load testing software with Jmeter](https://drive.google.com/file/d/195E_SwXuM6i6fRQuHCrQ4yXhg6li2mBL/view?usp=share_link)
-
 ### My Tools:
 ![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=plastic&logo=PyCharm&logoColor=47C5FB)
 ![Python](https://img.shields.io/badge/-Python-090909?style=plastic&logo=Python&logoColor=47C5FB)
@@ -29,10 +28,6 @@ subordinates). I have a lot of gaming experience in the past.
 ![Jmeter](https://img.shields.io/badge/-Jmeter-090909?style=plastic&logo=Appache&logoColor=47C5FB)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=plastic&logo=SQL&logoColor=47C5FB)
 
-
-<img align='center' alt='Python' width='72px' height='72px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/><img align='center' alt='Allure' width='64px' height='64px' src="https://poli24.ru/upload/uf/cf8/cf85f75ac6b951155c9403f1d7e06e1d.png"/><img align='center' alt='GitHub' width='64px' height='64px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/><img align='center' alt='PyCharm' width='64px' height='64px' src="https://raw.githubusercontent.com/github/explore/d8574c7bce27faa27fb879bca56dfe351ee66efd/topics/pycharm/pycharm.png"/><img align='center' alt='Jmeter' width='64px' height='64px' src='https://jmeter.apache.org/images/mstile-144x144.png'/><img align='center' alt='CSS' width='64px' height='64px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/><img align='center' alt='HTML' width='64px' height='64px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/><img align='center' alt='JSON' width='64px' height='64px' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"/>
-
-##
 ![lambotik GitHub stats](https://github-readme-stats.vercel.app/api?username=lambotik&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lambotik&layout=compact&langs_count=8)](https://github.com/lambotik/github-readme-stats&show_icons=true&theme=tokyonight)
