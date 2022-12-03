@@ -25,6 +25,7 @@ subordinates). I have a lot of gaming experience in the past.
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=plastic&logo=CSS3&logoColor=47C5FB)
 ![JSON](https://img.shields.io/badge/-JSON-090909?style=plastic&logo=JSON&logoColor=47C5FB)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=plastic&logo=Jira&logoColor=47C5FB)
+![DevTools](https://img.shields.io/badge/-DevTools-090909?style=plastic&logo=DevTools&logoColor=47C5FB)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=plastic&logo=Postman&logoColor=47C5FB)
 ![Allure](https://img.shields.io/badge/-Allure-090909?style=plastic&logo=AppacheAllure&logoColor=47C5FB)
 ![Jmeter](https://img.shields.io/badge/-Jmeter-090909?style=plastic&logo=Appache&logoColor=47C5FB)
