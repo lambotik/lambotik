@@ -9,8 +9,7 @@
 - [Software Testing Postman for API Testing:](https://stepik.org/cert/1670603)
 - [Programming in Python](https://stepik.org/cert/1566540)
 
-## My Tools:
- <img align='left' alt='Jmeter' width='26px' src='https://jmeter.apache.org/images/mstile-144x144.png'/>
+## My Tools:<img align='left' alt='Jmeter' width='26px' src='https://jmeter.apache.org/images/mstile-144x144.png'/>
 
 ##
 ![lambotik GitHub stats](https://github-readme-stats.vercel.app/api?username=lambotik&hide=contribs,prs&show_icons=true&theme=tokyonight)
