@@ -18,10 +18,10 @@ subordinates). I have a lot of gaming experience in the past.
 ## My Tools:
 ![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=plastic&logo=PyCharm&logoColor=47C5FB)
 ![Python](https://img.shields.io/badge/-Python-090909?style=plastic&logo=Python&logoColor=47C5FB)
+![GitHub](https://img.shields.io/badge/-GitHub-090909?style=plastic&logo=GitHub&logoColor=47C5FB)
 ![Allure](https://img.shields.io/badge/-Allure-090909?style=plastic&logo=Allure&logoColor=47C5FB)
 ![Jmeter](https://img.shields.io/badge/-Jmeter-090909?style=plastic&logo=Jmeter&logoColor=47C5FB)
-![GitHub](https://img.shields.io/badge/-GitHub-090909?style=plastic&logo=GitHub&logoColor=47C5FB)
-![Selenium Web Driver](https://img.shields.io/badge/-Selenium-090909?style=plastic&logoColor=47C5FB)
+![Selenium](https://img.shields.io/badge/-Selenium-090909?style=plastic&logoColor=47C5FB)
 
 
 
