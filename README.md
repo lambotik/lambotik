@@ -19,12 +19,12 @@ subordinates). I have a lot of gaming experience in the past.
 ![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=plastic&logo=PyCharm&logoColor=47C5FB)
 ![Python](https://img.shields.io/badge/-Python-090909?style=plastic&logo=Python&logoColor=47C5FB)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=plastic&logo=GitHub&logoColor=47C5FB)
-![Allure](https://img.shields.io/badge/-Allure-090909?style=plastic&logo=AppacheAllure&logoColor=47C5FB)
-![Jmeter](https://img.shields.io/badge/-Jmeter-090909?style=plastic&logo=Appache&logoColor=47C5FB)
 ![Selenium](https://img.shields.io/badge/-Selenium-090909?style=plastic&logo=Selenium&logoColor=47C5FB)
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=plastic&logo=HTML5&logoColor=47C5FB)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=plastic&logo=CSS3&logoColor=47C5FB)
 ![JSON](https://img.shields.io/badge/-JSON-090909?style=plastic&logo=JSON&logoColor=47C5FB)
+![Allure](https://img.shields.io/badge/-Allure-090909?style=plastic&logo=AppacheAllure&logoColor=47C5FB)
+![Jmeter](https://img.shields.io/badge/-Jmeter-090909?style=plastic&logo=Appache&logoColor=47C5FB)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=plastic&logo=SQL&logoColor=47C5FB)
 
 
