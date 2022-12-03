@@ -1,5 +1,10 @@
 # Hi everybody😉
-## I will be glad to new acquaintances and grateful for any useful information and advice.
+## I am most interested in automation in Python and I am
+developing in this direction. Attentive to details, I appreciate
+quality in everything, in everyday life. I am constantly
+developing and striving for new knowledge . I have experience in
+organizing and managing a large number of workers (about 100
+subordinates). I have a lot of gaming experience in the past.
 - [My CV:](https://drive.google.com/file/d/1_NPOLsBBuq7exzgVyOvIDlNIeFGLucuN/view?usp=sharing) 
 - [My LinkeDin](https://www.linkedin.com/feed/)
 ## My certificates:
