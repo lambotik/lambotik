@@ -8,6 +8,9 @@
 - [Test Automation with Selenium and Python:](https://stepik.org/cert/1471860)
 - [Software Testing Postman for API Testing:](https://stepik.org/cert/1670603)
 - [Programming in Python](https://stepik.org/cert/1566540)
+
+## My Tools:
+- Jmeter[](https://jmeter.apache.org/images/mstile-144x144.png)
  
 ![lambotik GitHub stats](https://github-readme-stats.vercel.app/api?username=lambotik&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
