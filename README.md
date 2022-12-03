@@ -21,6 +21,7 @@ subordinates). I have a lot of gaming experience in the past.
 ![Allure](https://img.shields.io/badge/-Allure-090909?style=plastic&logo=Allure&logoColor=47C5FB)
 ![Jmeter](https://img.shields.io/badge/-Jmeter-090909?style=plastic&logo=Jmeter&logoColor=47C5FB)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=plastic&logo=GitHub&logoColor=47C5FB)
+![Selenium Web Driver](https://img.shields.io/badge/-Selenium Web Driver-090909?style=plastic&logo=Selenium Web Driver&logoColor=47C5FB)
 
 
 
