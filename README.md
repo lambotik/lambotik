@@ -33,4 +33,4 @@ subordinates). I have a lot of gaming experience in the past.
 ##
 ![lambotik GitHub stats](https://github-readme-stats.vercel.app/api?username=lambotik&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
-[!![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lambotik&layout=compact&langs_count=8)](https://github.com/lambotik/github-readme-stats&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lambotik&layout=compact&langs_count=8)](https://github.com/lambotik/github-readme-stats&show_icons=true&theme=tokyonight)
