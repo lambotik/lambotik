@@ -6,9 +6,9 @@ developing and striving for new knowledge . I have experience in
 organizing and managing a large number of workers (about 100
 subordinates). I have a lot of gaming experience in the past.
 
-[<img align='center' alt='CV' width='32' height='32px' src="https://cdn.pixabay.com/photo/2017/03/24/02/25/resume-2169945_1280.png"/>](https://drive.google.com/file/d/1_NPOLsBBuq7exzgVyOvIDlNIeFGLucuN/view?usp=sharing) 
+My CV: [<img align='center' alt='CV' width='32' height='32px' src="https://cdn.pixabay.com/photo/2017/03/24/02/25/resume-2169945_1280.png"/>](https://drive.google.com/file/d/1_NPOLsBBuq7exzgVyOvIDlNIeFGLucuN/view?usp=sharing) 
 
-[<img align='center' alt='LinkeDin' width='32' height='32px' src="https://lh5.googleusercontent.com/17boAIfIyz12pc7EZqjyP6nGAiZdjmhYbewA46qIPS9vwJ3clgaWtih48vZraTTZQyxWEVo9FMBB0lOrBJiBCDYy5EYJU4A-RjvqIrXab3nxA9_MfIBSiis4nx9van3NAi8vgpyw"/>](https://www.linkedin.com/feed/)
+You may contact with me by LinkeDin: [<img align='center' alt='LinkeDin' width='32' height='32px' src="https://lh5.googleusercontent.com/17boAIfIyz12pc7EZqjyP6nGAiZdjmhYbewA46qIPS9vwJ3clgaWtih48vZraTTZQyxWEVo9FMBB0lOrBJiBCDYy5EYJU4A-RjvqIrXab3nxA9_MfIBSiis4nx9van3NAi8vgpyw"/>](https://www.linkedin.com/feed/)
 ### My certificates:
 - [Generation Python a course for beginners:](https://stepik.org/cert/1165429)
 - [Web Development for Beginners HTML and CSS:](https://stepik.org/cert/1436844)
