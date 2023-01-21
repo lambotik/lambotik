@@ -37,6 +37,4 @@ You may contact with me by LinkeDin: [<img align='center' alt='LinkeDin' width='
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lambotik&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lambotik&layout=compact&langs_count=8)](https://github.com/lambotik/github-readme-stats&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lambotik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
