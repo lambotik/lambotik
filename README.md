@@ -35,7 +35,7 @@ You may contact with me by LinkeDin: [<img align='center' alt='LinkeDin' width='
 
 ### :fire: My Stats :
 
-![lambotik GitHub stats](https://github-readme-stats.vercel.app/api?username=lambotik&hide=contribs,prs&show_icons=true&theme=tokyonight)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-lambotik&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
