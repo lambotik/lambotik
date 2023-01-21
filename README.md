@@ -27,7 +27,7 @@ subordinates). I have a lot of gaming experience in the past.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg](https://drive.google.com/file/d/19phhXhgJIr9bOTORPKbJOxNEavEhD1ZX/view?usp=share_link)" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://drive.google.com/file/d/19phhXhgJIr9bOTORPKbJOxNEavEhD1ZX/view?usp=share_link" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
 
 
