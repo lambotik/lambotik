@@ -17,7 +17,7 @@ You may contact with me by LinkeDin: [<img align='center' alt='LinkeDin' width='
 - [Programming in Python](https://stepik.org/cert/1566540)
 - [Load testing software with Jmeter](https://drive.google.com/file/d/195E_SwXuM6i6fRQuHCrQ4yXhg6li2mBL/view?usp=share_link)
 
-### My Tools:
+### :hammer_and_wrench: Languages and Tools :
 ![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=plastic&logo=PyCharm&logoColor=47C5FB)
 ![Python](https://img.shields.io/badge/-Python-090909?style=plastic&logo=Python&logoColor=47C5FB)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=plastic&logo=GitHub&logoColor=47C5FB)
