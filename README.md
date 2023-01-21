@@ -31,7 +31,7 @@ You may contact with me by LinkeDin: [<img align='center' alt='LinkeDin' width='
 ![Allure](https://img.shields.io/badge/-Allure-090909?style=plastic&logo=AppacheAllure&logoColor=47C5FB)
 ![Jmeter](https://img.shields.io/badge/-Jmeter-090909?style=plastic&logo=Appache&logoColor=47C5FB)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=plastic&logo=SQL&logoColor=47C5FB)
-![EXCEL](https://img.shields.io/badge/-EXCEL-090909?style=plastic&logo=EXCEL&logoColor=47C5FB)
+
 
 ![lambotik GitHub stats](https://github-readme-stats.vercel.app/api?username=lambotik&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
