@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
 ## I'm looking for Junior QA/AQA Test Engineer position
 I am most interested in automation in Python and I am
 developing in this direction. Attentive to details, I appreciate
