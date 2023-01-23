@@ -46,4 +46,4 @@ subordinates). I have a lot of gaming experience in the past.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lambotik&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-### An example of a test case in Russian [Documentation](https://docs.google.com/spreadsheets/d/1mS0bQsnpViVUJp4i8IBH_A3Bjo1jRs8nsKtxFWWDyVE/edit?usp=share_link)
+### An example of a test case in Russian [Test Documentation](https://docs.google.com/spreadsheets/d/1mS0bQsnpViVUJp4i8IBH_A3Bjo1jRs8nsKtxFWWDyVE/edit?usp=share_link)
