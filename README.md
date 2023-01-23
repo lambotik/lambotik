@@ -14,6 +14,8 @@ quality in everything, in everyday life. I am constantly
 developing and striving for new knowledge . I have experience in
 organizing and managing a large number of workers (about 100
 subordinates). I have a lot of gaming experience in the past.
+    
+## An example of a test case in Russian [Documentation](https://docs.google.com/spreadsheets/d/1mS0bQsnpViVUJp4i8IBH_A3Bjo1jRs8nsKtxFWWDyVE/edit?usp=share_link)
 
 ### My certificates:
 - [Generation Python a course for beginners:](https://stepik.org/cert/1165429)
