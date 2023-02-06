@@ -24,7 +24,8 @@ subordinates). I have a lot of gaming experience in the past.
 - [Software Testing Postman for API Testing:](https://stepik.org/cert/1670603)
 - [Programming in Python](https://stepik.org/cert/1566540)
 - [Load testing software with Jmeter](https://drive.google.com/file/d/195E_SwXuM6i6fRQuHCrQ4yXhg6li2mBL/view?usp=share_link)
-- [Software Testing: Preparing for ISTQB Foundation Certification](https://drive.google.com/file/d/1vOlh2nbBq1L13ilIZVgleDNI8p8NM1Aq/view?usp=share_link)
+- [Software Testing: Preparing for ISTQB Foundation Certification](https://stepik.org/cert/1938527)
+- [Тестирование ПО:Автоматизация и Программирование.Python.Selenium](https://stepik.org/cert/1924453)
 ### Test Documentation
 An example of a test case [Test Documentation](https://docs.google.com/spreadsheets/d/1mS0bQsnpViVUJp4i8IBH_A3Bjo1jRs8nsKtxFWWDyVE/edit?usp=share_link)
 
