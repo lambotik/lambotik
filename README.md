@@ -20,6 +20,7 @@ I am most interested in automation in Python and I am developing in this directi
 - [Load testing software with Jmeter](https://drive.google.com/file/d/195E_SwXuM6i6fRQuHCrQ4yXhg6li2mBL/view?usp=share_link)
 - [Software Testing: Preparing for ISTQB Foundation Certification](https://stepik.org/cert/1938527)
 - [Software Testing: Automation and Programming.Python.Selenium](https://stepik.org/cert/1924453)
+- [Software Testing: Automation and Python Programming. API](https://stepik.org/cert/2010928)
 ### Test Documentation
 An example of a test case [Test Documentation](https://docs.google.com/spreadsheets/d/1mS0bQsnpViVUJp4i8IBH_A3Bjo1jRs8nsKtxFWWDyVE/edit?usp=share_link)
 
