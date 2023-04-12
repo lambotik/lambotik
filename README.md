@@ -23,8 +23,7 @@ I am most interested in automation in Python and I am developing in this directi
 - [Software Testing: Automation and Python Programming. API](https://stepik.org/cert/2010928)
 - [The testing universe, or how to become a tester](https://stepik.org/cert/2019000)
     
-### Test Documentation
-An example of a test case [Test Documentation](https://docs.google.com/spreadsheets/d/1mS0bQsnpViVUJp4i8IBH_A3Bjo1jRs8nsKtxFWWDyVE/edit?usp=share_link)
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
