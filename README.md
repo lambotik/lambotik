@@ -28,7 +28,7 @@ I am most interested in automation in Python and I am developing in this directi
 ### Test documentation:
 - [Checking the mail service Mail.ru](https://docs.google.com/spreadsheets/d/1IoD-eYXth18YQuJX2JLjXADJhmYKnxmEeGO8kTmifmU/edit?usp=sharing)    
 
-# 🎱_and_👽: 
+
 ### :hammer_and_wrench: Languages and Tools :
 
 ![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=plastic&logo=PyCharm&logoColor=47C5FB)
