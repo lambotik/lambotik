@@ -1,3 +1,7 @@
+
+
+<div id="header" align="center">
+  <img src="https://giphy.com/clips/originals-cyber-sci-fi-cyberface-sweInTtBnNOC8v3R9b" width="100"/>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
