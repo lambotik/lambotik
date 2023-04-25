@@ -45,8 +45,7 @@ I am most interested in automation in Python and I am developing in this directi
 ![Jmeter](https://img.shields.io/badge/-Jmeter-090909?style=plastic&logo=Appache&logoColor=47C5FB)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=plastic&logo=SQL&logoColor=47C5FB)
 
-I belive in 🇺🇦
-
+I belive in 🎱
 
 ### :fire: My Stats :
 
