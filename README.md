@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=lambotik&style=flat-square&color=blue" alt=""/>
 
 ## I'm looking for Junior QA/AQA Test Engineer position
-## If you visit my page, put a ⭐ to the project that you like. Don't be lazy))) 
+## If you visit my page, put a ⭐ to the project that you like. Don't be lazy ))) 
     
 I am most interested in automation in Python and I am developing in this direction. Attentive to details, I appreciate the quality in everything. I am constantly developing and striving for new knowledge. I have had a lot of gaming experience in the past.    
 
