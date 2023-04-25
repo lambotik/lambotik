@@ -50,5 +50,5 @@ I am most interested in automation in Python and I am developing in this directi
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lambotik&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-I belive in 🇺🇦
+I belive in :🇺🇦:
 
