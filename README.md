@@ -13,8 +13,6 @@
     
 I am most interested in automation in Python and I am developing in this direction. Attentive to details, I appreciate the quality in everything. I am constantly developing and striving for new knowledge. I have had a lot of gaming experience in the past.    
 
-<div id="title" align="left">
-</div>
   
 ### My certificates:
 - [Python Programming Indie Course:](https://stepik.org/users/399345252/profile)
@@ -30,7 +28,7 @@ I am most interested in automation in Python and I am developing in this directi
 - [Software Testing: Automation and Python Programming. API](https://stepik.org/cert/2010928)
 - [The testing universe, or how to become a tester](https://stepik.org/cert/2019000)
 
-### Test documentation:
+### Examples of the Test documentation:
 - [Checking the mail service Mail.ru](https://docs.google.com/spreadsheets/d/1IoD-eYXth18YQuJX2JLjXADJhmYKnxmEeGO8kTmifmU/edit?usp=sharing) 
 - [Test Task from Paralect](https://docs.google.com/spreadsheets/d/1jUZngkI-eoNW3pbPcaVPpXuV3KgU1jPMCqQ8hSj28rA/edit?usp=sharing)
 - [Test Task from SuperLevel](https://docs.google.com/spreadsheets/d/1QvQA8W6cZhB5Too8wAi1FdTLdUQXqHPz2AgmZExPyXQ/edit?usp=sharing)
