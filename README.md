@@ -31,6 +31,7 @@ I am most interested in automation in Python and I am developing in this directi
 - [Checking the mail service Mail.ru](https://docs.google.com/spreadsheets/d/1IoD-eYXth18YQuJX2JLjXADJhmYKnxmEeGO8kTmifmU/edit?usp=sharing) 
 - [Test Task from Paralect](https://docs.google.com/spreadsheets/d/1jUZngkI-eoNW3pbPcaVPpXuV3KgU1jPMCqQ8hSj28rA/edit?usp=sharing)
 - [Test Task from SuperLevel](https://docs.google.com/spreadsheets/d/1QvQA8W6cZhB5Too8wAi1FdTLdUQXqHPz2AgmZExPyXQ/edit?usp=sharing)
+- [Test task from hoster.by](https://docs.google.com/spreadsheets/d/1xzm2YOAZx0ll5KSULV3Z0fygkcbB8M-izoeZCEJf3Lg/edit?usp=sharing)
 
 
 ### :hammer_and_wrench: Languages and Tools :
