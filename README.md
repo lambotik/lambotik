@@ -13,7 +13,9 @@
     
 I am most interested in automation in Python and I am developing in this direction. Attentive to details, I appreciate the quality in everything. I am constantly developing and striving for new knowledge. I have had a lot of gaming experience in the past.    
 
-<div id="header" align="left">
+<div id="title" align="left">
+</div>
+  
 ### My certificates:
 - [Python Programming Indie Course:](https://stepik.org/users/399345252/profile)
 - [Programming in Python from Scratch + Working with SQL:](https://stepik.org/cert/2122176)
