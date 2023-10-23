@@ -58,4 +58,8 @@ I am most interested in automation in Python and I am developing in this directi
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lambotik&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 
+## :bar_chart:Git stats
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lambotik&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lambotik&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lambotik&theme=tokyonight)
